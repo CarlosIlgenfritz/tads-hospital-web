@@ -47,7 +47,7 @@
                   <th scope="col">#</th>
                   <th scope="col">Tipo</th>
                   <th scope="col">Número de leitos totais</th>
-                  <th scope="col">Número de leitos ocupados</th>
+                  <th scope="col">Número de leitos disponiveis</th>
 
                   <th scope="col">Indice de ocupação</th>
                 </tr>
